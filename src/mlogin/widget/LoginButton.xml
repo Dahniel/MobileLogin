@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="mlogin.widget.LoginButton" mobile="true" needsEntityContext="false" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>Login Button</name>
+    <description>Login Button</description>
+    <icon>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+        bWFnZVJlYWR5ccllPAAAAkxJREFUeNp8Uktr1FAUPjfJTDpofNQOxhcUyoCIYm1HRbDtxqELEZ/V
+        qqtacOdfqH9BEayCsxFxUQdEF4ouFLuYTSlUO1N0bMFqkREtLbWZSSaP47nJDUmz8JBD7rnfOd95
+        XYaIwBiDhIydO3v+Rt9An84ILZfLv0ql0mMAvM2Y5IZOnkdHThCX9vbszNT0LCZldq6Gur73C7mo
+        PCFXPzZBUPxYnUfTQTw5cKqupNQHsqKOHz/Rv7RmWDj/7Sc5y09D5yTB9uHrI26DLg4c7F4iOxMj
+        lrty+2uGhzh68xYP2BcSSDGnru78MenD5BTMVWYekd2MYe7C18/jr1+9h8O9eW7nQkCJOWVqiynY
+        3LGVn01xp4q/xXW6gtCW0iFeHRNbOHN5EF5euHoU9nR2wsSTZ+vpFKwxKUhALo5lgVY4XdA2pSV4
+        ePcNPH8HV2wHJ/w+dmlQbFUVOuqIRpb+vaQ9pEeE8nMe0SIcCf+uYi4LRR7rZ/CoiNUqQlbbSRaN
+        5Y8D4IhR8Sfyg4+Rr5/Kp/U1P1XA9XxElEif1/AAfi9QPOON+V2+uJOGlg0wdLEVTMEL1DUcP2bD
+        ENEmu2EGGWVSjcHYfRtWDIShS4Q1SV1BYkdvJ9oCB20nILAD+9ogwLopCJuiHU/4YpIABRi+jGWA
+        Qj9xucHZxzFqY0MFvGtFFplCAgOg55DIWidNh4unINmfZTREHrNtC93ukIIAFpXoix4F8+xtfz2Q
+        mRtVUDfg7eg9eWR3h2xayGz4j9A7UpZX3cziijvJ7X8CDACOIxoVfZ9XXAAAAABJRU5ErkJggg==
+    </icon>
+    <properties>
+        <property key="caption" type="translatableString">
+            <caption>Caption</caption>
+            <category>Appearance</category>
+            <description>The caption to show on this button</description>
+            <translations>
+                <translation lang="en_US">Sign in</translation>
+            </translations>
+        </property>
+    </properties>
+</widget>
